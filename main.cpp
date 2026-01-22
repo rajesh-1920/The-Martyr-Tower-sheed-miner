@@ -1,6 +1,6 @@
-//Author	: Rajesh Biswas
-//Codeforces 	: rajesh_1920
-//Date 		: 21/02/2024
+//Author : Rajesh Biswas
+//Cf     : rajesh_1920
+//Date   : 21/02/2024
 
 #include <bits/stdc++.h>
 #include<graphics.h>
