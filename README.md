@@ -7,7 +7,7 @@ This is a C++ BGI graphics animation that draws the Shaheed Minar and a
 Bangladeshi flag. It commemorates International Mother Language Day
 (21 February).
 
-Output
+Final Output
 ------
 <table width="100%">
 	<tr>
