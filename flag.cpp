@@ -6,7 +6,7 @@
 #include <graphics.h>
 using namespace std;
 
-void solve()
+void draw()
 {
     setcolor(RED);
     setfillstyle(SOLID_FILL, RED);
@@ -47,7 +47,9 @@ int main()
     int gd, gm;
     detectgraph(&gd, &gm);
     initgraph(&gd, &gm, "c:\\TURBOC3\\BGI");
-    solve();
-    getch();
+    {
+        draw();
+        getch();
+    }
     return 0;
 }

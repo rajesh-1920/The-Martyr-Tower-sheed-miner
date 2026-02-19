@@ -253,7 +253,6 @@ int main()
     int gd, gm;
     detectgraph(&gd, &gm);
     initgraph(&gd, &gm, "c:\\TURBOC3\\BGI");
-
     {
         Red_circle();
         Middle_Minar();
@@ -262,7 +261,6 @@ int main()
         Base();
         Draw_Line();
     }
-
     getch();
     return 0;
 }

@@ -17,7 +17,7 @@ Final Output
 			Shaheed Minar
 		</td>
 		<td align="center">
-			<img src="output/flag.jpeg" style="width: 100%; max-width: 520px; height: auto;" alt="Rendered Bangladesh flag" />
+			<img src="output/flag.jpg" style="width: 100%; max-width: 520px; height: auto;" alt="Rendered Bangladesh flag" />
 			<br />
 			Bangladesh Flag
 		</td>
