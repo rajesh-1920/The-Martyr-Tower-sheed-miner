@@ -9,15 +9,15 @@ Bangladeshi flag. It commemorates International Mother Language Day
 
 Output
 ------
-<table>
+<table width="100%">
 	<tr>
 		<td align="center">
-			<img src="output/main.jpg" width="320" alt="Rendered Shaheed Minar scene" />
+			<img src="output/main.jpg" style="width: 100%; max-width: 520px; height: auto;" alt="Rendered Shaheed Minar scene" />
 			<br />
 			Shaheed Minar
 		</td>
 		<td align="center">
-			<img src="output/flag.jpg" width="320" alt="Rendered Bangladesh flag" />
+			<img src="output/flag.jpeg" style="width: 100%; max-width: 520px; height: auto;" alt="Rendered Bangladesh flag" />
 			<br />
 			Bangladesh Flag
 		</td>
